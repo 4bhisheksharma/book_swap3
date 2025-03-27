@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:book_swap/providers/book_provider.dart';
 import 'package:book_swap/models/book.dart';
-import 'package:book_swap/utils/routes.dart';
 import 'package:book_swap/widgets/home_widgets/book_list.dart';
 
 class SearchSection extends StatefulWidget {

@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.light, // dark mode chahiyo vane
       theme: AppTheme.lightTheme,
-      initialRoute: MyRoutes.loginRoute, // Set initial route
+      initialRoute: MyRoutes.welcomeRoute, // Set initial route
       routes: {
         MyRoutes.welcomeRoute: (context) => const WelcomePage(),
         MyRoutes.signupRoute: (context) => const SignupPage(),

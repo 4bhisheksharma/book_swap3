@@ -2,7 +2,6 @@ import 'dart:io';
 import 'package:book_swap/providers/book_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 
 class AddBooksSection extends StatefulWidget {
