@@ -8,6 +8,7 @@ from rest_framework.permissions import AllowAny
 from rest_framework import status
 from rest_framework.parsers import MultiPartParser, FormParser, JSONParser
 
+# FIXME: in home section user should see the book except the book that he has added.
 class BookViewSet(viewsets.ModelViewSet):
     queryset = Book.objects.all()
     serializer_class = BookSerializer
@@ -67,7 +68,7 @@ class BookViewSet(viewsets.ModelViewSet):
 #         })
 
 
-
+# TODO:
 class SwapRequestViewSet(viewsets.ModelViewSet):
     queryset = SwapRequest.objects.all()
     serializer_class = SwapRequestSerializer

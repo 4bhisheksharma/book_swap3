@@ -77,7 +77,7 @@ class BooksSection extends StatelessWidget {
           style: const TextStyle(fontWeight: FontWeight.w600),
         ),
         subtitle: Text(
-          "Credit: ${book.credit} • Price: रू${book.price.toStringAsFixed(2)}",
+          "Condition: ${book.credit} • Price: रू${book.price.toStringAsFixed(2)}",
           style: TextStyle(color: Colors.grey.shade600),
         ),
         trailing: _buildActionButtons(context, provider, book),
@@ -215,7 +215,7 @@ class BooksSection extends StatelessWidget {
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceAround,
       children: [
-        _buildInfoItem("Credit", "${book.credit}"),
+        _buildInfoItem("Condition", "${book.credit}"),
         _buildInfoItem("Price", "रू${book.price.toStringAsFixed(2)}"),
       ],
     );

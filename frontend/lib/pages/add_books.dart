@@ -198,7 +198,7 @@ class _AddBooksSectionState extends State<AddBooksSection> {
     return TextFormField(
       controller: _creditController,
       decoration: const InputDecoration(
-        labelText: 'Credits (1-10)',
+        labelText: 'Conditiona (1-10)',
         prefixIcon: Icon(Icons.credit_score),
         border: OutlineInputBorder(),
         helperText: '1 = Poor condition, 10 = Brand new',
