@@ -2,4 +2,6 @@
 /frontend/.venv
 /frontend/android
 /frontend/linux
+/backend/media
+/backend/media/books
 
