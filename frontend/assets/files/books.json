@@ -1,0 +1,61 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "demo_book1",
+            "desc": "This is a description.",
+            "price": 500,
+            "credit": 5,
+            "image": "https://exponentwptheme.com/book/wp-content/uploads/sites/26/2019/02/book-mockup-exponent-min.png"
+        },
+        {
+            "id": 2,
+            "name": "demo_book2",
+            "desc": "This is a description.",
+            "price": 400,
+            "credit": 4,
+            "image": "https://media.istockphoto.com/id/183890264/photo/upright-red-book-with-clipping-path.jpg?s=612x612&w=0&k=20&c=zm6sEPnc4zK4MNj307pm3tzgxTbex2sOnb1Ip5hglaA="
+        },
+        {
+            "id": 3,
+            "name": "demo_book3",
+            "desc": "This is a description.",
+            "price": 500,
+            "credit": 5,
+            "image": "https://res.freestockphotos.biz/pictures/6/6792-a-blue-book-isolated-on-a-white-background-pv.jpg"
+        },
+        {
+            "id": 4,
+            "name": "demo_book4",
+            "desc": "This is a description.",
+            "price": 300,
+            "credit": 3,
+            "image": "https://media.istockphoto.com/id/162264691/photo/black-book.jpg?s=612x612&w=is&k=20&c=mbBGl1JrAAhclCjkk8BQIGGcq3EIqNPcJDr7zafvUVA="
+        },
+        {
+            "id": 5,
+            "name": "demo_book5",
+            "desc": "This is a description.",
+            "price": 200,
+            "credit": 2,
+            "image": "https://www.perfectprintco.com.au/cdn/shop/files/SINGLECUSTOMBOOK.png?v=1684850063&width=1080"
+        },
+        {
+            "id": 5,
+            "name": "demo_book6",
+            "desc": "This is a description.",
+            "price": 200,
+            "credit": 2,
+            "image": "https://www.perfectprintco.com.au/cdn/shop/files/SINGLECUSTOMBOOK.png?v=1684850063&width=1080"
+        },
+        {
+            "id": 5,
+            "name": "demo_book7",
+            "desc": "This is a description.",
+            "price": 200,
+            "credit": 2,
+            "image": "https://www.perfectprintco.com.au/cdn/shop/files/SINGLECUSTOMBOOK.png?v=1684850063&width=1080"
+        }
+
+    ]
+}
