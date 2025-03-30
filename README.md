@@ -46,7 +46,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-###Frintend Setup
+### Frontend Setup
 ```bash
 cd ../frontend
 
